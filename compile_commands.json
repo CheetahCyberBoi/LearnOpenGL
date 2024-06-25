@@ -1,0 +1,28 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Ilib",
+      "-o",
+      "bin/debug",
+      "src/main.cpp"
+    ],
+    "directory": "/home/cheetah/Desktop/Projects/C++/LearnOpenGL",
+    "file": "/home/cheetah/Desktop/Projects/C++/LearnOpenGL/src/main.cpp",
+    "output": "/home/cheetah/Desktop/Projects/C++/LearnOpenGL/bin/debug"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Ilib",
+      "-o",
+      "bin/debug",
+      "src/glad/glad.c"
+    ],
+    "directory": "/home/cheetah/Desktop/Projects/C++/LearnOpenGL",
+    "file": "/home/cheetah/Desktop/Projects/C++/LearnOpenGL/src/glad/glad.c",
+    "output": "/home/cheetah/Desktop/Projects/C++/LearnOpenGL/bin/debug"
+  }
+]
